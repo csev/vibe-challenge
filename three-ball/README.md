@@ -35,7 +35,7 @@ also knows Mike he decided to come to the bar as well.
 
 So we both show up at the bar and order some lunch - just when the food arrives, the software developed its first bug in round six.   
 
-<a href="fun/pub1.jpeg" target="_blank">Pub Picture</a> | <a href="fun/pub2.jpeg" target="_blank">Pub Picture</a> | <a href="fun/pub3.jpeg" target="_blank">Pub Picture</a>
+<a href="fun/pub1.jpeg" target="_blank">Pub Picture</a> | <a href="fun/pub2.jpeg" target="_blank">Pub Picture</a> | <a href="fun/pub3.jpg" target="_blank">Pub Picture</a>
 
 So up we go and start
 vibe coding the fixes live in production siting next to the tournament director Brittany.  She is writing all the results on paper so when the code breaks
@@ -44,6 +44,11 @@ fix broken scores - the first thing we edited was an editing UI :)
 Over the next two hours we fix 2-3 bugs, add 3-4 features including a QA code so people in the bar could track the leader board on their phones.
 
 The tounament went 12 rounds and the software was still working at the end of the tournament.
+
+By the way - we kind of do a lot of hockey wheellchair and able bodied - it was a hockey and vibe coding weekend.
+
+This was all live recorded and will be up opn YouTueb soon :)
+
 
 
 
