@@ -17,8 +17,8 @@ Mike and Chuck at Hockey
 
 <img src="fun/Dr-Chuck-And-Mike.jpg">
 
-Mike at the Race Track
-----------------------
+Mike and his Brother at the Race Track
+--------------------------------------
 
 <img src="fun/mike_track.jpg">
 
