@@ -11,47 +11,5 @@ Chuck said a web based application with multiple screens would be smarter and he
 
 Mike sent two hand-written sheets of paper and an Excel spread sheet to describe the game.
 
-Of course Chuck was busy and so he did not start until Saturday afternoon March 14 - while his son Brent was playing wheelchair floor hockey in Frasier, MI.
-
-<a href="fun/Brent-Wheelchair-Floor-Hockey.jpeg" target="_blank">Brent playing wheelchair hockey</a>
-
-By the time Brent was done playing his hockey game (he got a hat trick by the way) (about an hour) of vibe designing and then vibe coding
-a rough prototype was working and uploaded to a test server on the Internet.    Chuck called Mike on the way from Frasier to East Lansing where Brent and Chuck 
-went to watch a playoff hockey game between Michigan State and Ohio State to tell Mike verison 1.0 was done and told him to take a look and send
-any suggested updates.
-
-<a href="fun/Spartan-Ohio-Plaoff-Hockey.MOV" target="_blank">Michigan State-Ohio State Playoff Game</a>
-
-After Brent and Chuck went home after the game, Mike sent back a few suggested changes and at 11PM, Chuck vibe coded them and added them to
-the code base.  At that point it was almost midnight March 14, and Chuck was tired, so Chuck sent Mike a note that said the changes were made
-but Chuck felt that it was likely not for prime time and went to bed.
-
-Chuck had a hockey game at 8:15AM (not with Mike) and came home after the game and took a nap.  At 2PM Sunday March 15, Mike texted Chuck and said
-the software was working great through two rounds and sent a bunch of pictures of the bar and the tournament.  Chuck decided to grab his laptop and
-go to the bar for lunch.  Just then Brent called and said he was just finishing up his wheel chair floor ball practice and wandered what was up - since Brent
-also knows Mike he decided to come to the bar as well.
-
-<a href="fun/Brent-Floorball-Switzerland-1.jpeg" target="_blank">Brent Wheelchair Floorball</a>
-
-So we both show up at the bar and order some lunch - just when the food arrives, the software developed its first bug in round six.   
-
-<a href="fun/pub1.jpeg" target="_blank">Pub Picture</a> | <a href="fun/pub2.jpeg" target="_blank">Pub Picture</a> | <a href="fun/pub3.jpg" target="_blank">Pub Picture</a>
-
-So up we go and start
-vibe coding the fixes live in production siting next to the tournament director Brittany.  She is writing all the results on paper so when the code breaks
-fix broken scores - the first thing we edited was an editing UI :)
-
-Over the next two hours we fix 2-3 bugs, add 3-4 features including a QA code so people in the bar could track the leader board on their phones.
-
-The tounament went 12 rounds and the software was still working at the end of the tournament.
-
-By the way - we kind of do a lot of hockey wheellchair and able bodied - it was a hockey and vibe coding weekend.
-
-This was all live recorded and will be up opn YouTueb soon :)
-
-
-
-
-
-
-
+After Mike reviewed version 1.0 he made the 2.0 suggestions and they 
+are included here.
