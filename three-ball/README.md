@@ -1,7 +1,9 @@
 Three-Ball-Pool Tournament
 ==========================
 
-Mike owns a pub and they wanted to do a memorial three-ball challenge for a veteran that passed away.  Mike and Chuck play pickup hockey every
+Mike owns a pub and they wanted to do a memorial three-ball challenge for a veteran that passed away.  
+
+Mike and Chuck play pickup hockey every
 Thursday night in East Lansing, MI.  On March 5, 2026 before the hockey game started, Mike came over to Chuck at center ice and asked Chuck to write a desktop
 application to run a three-ball https://en.wikipedia.org/wiki/Three-ball pool tournament for a tournament on March 15.
 
