@@ -4,7 +4,7 @@ This is a challenge for those who think that vibe coding is the future and there
 you have ChaptGPT.  It was not designed to be easy or hard - it was just a real thing that happenned.
 
 TL;DR; Dr. Chuck finished the challenge in less than 30 hours from looking at the exact specifications you are given
-below to being in production and successfully supporing a three-ball tournament in Mike's bar.
+in this repo to being in production and successfully supporing a three-ball tournament in Mike's bar.
 
 The Back Story
 --------------
