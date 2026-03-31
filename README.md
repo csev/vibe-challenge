@@ -2,10 +2,10 @@ Vibe Coding Challenge
 =====================
 
 This is a challenge for those who think that vibe coding is the future and there is no reason to learn anything when
-you have ChaptGPT.  It was not designed to be easy or hard - it was just a real thing that happenned.
+you have ChaptGPT.  It was not designed to be easy or hard - it was just a real thing that happened.
 
 TL;DR; Dr. Chuck finished the challenge in less than 30 hours from looking at the exact specifications you are given
-in this repo to being in production and successfully supporing a three-ball tournament in Mike's bar.
+in this repo to being in production and successfully supporting a three-ball tournament in Mike's bar.
 
 **Important:**  If you are a skilled programmer this should be pretty easy - that is not the point.  If you don't
 know a single programming language and can solve this with AI -  now *that* would be impressive.
@@ -48,7 +48,7 @@ The Rules
 
 If you are already a strong developer, you should be able to match Dr. Chuck's 24 hour result and perhaps
 do a better job that Dr. Chuck.  That won't impress me much - AI should make you a better developer and
-accellerate your productivity.
+accelerate your productivity.
 
 If you have no software development experience - except a one hour "Intro to VIBE Coding" Seminar, that is the
 real test.  I expect this will be super painful and teach the lesson about just how foolish it is to pretend
@@ -57,9 +57,9 @@ that AI can substitute for a person who knows something about programming.
 Why did Dr. Chuck Build this Challenge?
 ---------------------------------------
 
-It is muy feeling that the advent of AI does not eliminate the need to learn to program - but it *does*
+It is my feeling that the advent of AI does not eliminate the need to learn to program - but it *does*
 change how much you need to learn to be a good programmer.  Instead of a four-year program in Computer Science,
-I think that you can take a series aof far simpler courses that teach you the breadth of software development
+I think that you can take a series of far simpler courses that teach you the breadth of software development
 and give you a base to use AI effectively.  That "Being a Master Programmer with AI" curriculum is available at:
 
 https://online.dr-chuck.com/
@@ -68,7 +68,7 @@ It is not easy, it is not quick.  But it is also not four years and it also is 1
 materials can be accessed at no charge.  So anyone, anywhere in the world, regardless of financial situation can learn
 to be a master programmer with a bit of time and effort invested.
 
-So for some of you failing this challenge might open a path forwatf ofr you.  Some of you who have already taken courses
+So for some of you failing this challenge might open a path forwatf for you.  Some of you who have already taken courses
 and taught your self can do this challenge in 24 hours and be proud of your skills.   If not, come see Dr. Chuck's 
 online university.
 
