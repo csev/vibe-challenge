@@ -1,4 +1,5 @@
-# vibe-challenge
+Vibe Coding Challenge
+=====================
 
 This is a challenge for those who think that vibe coding is the future and there is no reason to learn anything when
 you have ChaptGPT.  It was not designed to be easy or hard - it was just a real thing that happenned.
