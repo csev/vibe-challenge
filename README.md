@@ -7,6 +7,9 @@ you have ChaptGPT.  It was not designed to be easy or hard - it was just a real 
 TL;DR; Dr. Chuck finished the challenge in less than 30 hours from looking at the exact specifications you are given
 in this repo to being in production and successfully supporing a three-ball tournament in Mike's bar.
 
+**Important:**  If you are a skilled programmer this should be pretty easy - that is not the point.  If you don't
+know a single programming language and can solve this with AI -  now *that* would be impressive.
+
 The Back Story
 --------------
 
