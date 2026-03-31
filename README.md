@@ -37,12 +37,11 @@ the tournament.
 The Challenge
 -------------
 
-Yuo are to take the three specifications in this repo and within 24 hours deliver a working application.
+You are to take the three specifications in this repo and within 24 hours deliver a working application.
 You get nothing else.
 
 It does not have to be perfect - it has to work well enough for it to be used and given to the customer
-for evaluation.   It has to be complete, and it has to work.  It does not have to be perfect.  You don't 
-have access to Mike for him to react to improve the code.
+for evaluation.   It has to be complete, and it has to work.  
 
 The Rules
 ---------
